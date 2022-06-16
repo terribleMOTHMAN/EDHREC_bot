@@ -8,7 +8,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 import json
 import httpx
 
-API_TOKEN = '5151923541:AAE-ED8mZFj7FOlrkeP-mgYm5rasfeCLc0k'
+API_TOKEN = 'TOKEN'
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger('broadcast')
